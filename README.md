@@ -26,6 +26,37 @@ ServiApp es una aplicación móvil tipo marketplace enfocada exclusivamente en l
 - `android/`, `ios/`, `web/`, `windows/`, `macos/`, `linux/` Archivos de plataforma
 - `Documentos/` Documentación técnica y de gestión
 
+## Capturas de la aplicacion
+
+## Login:
+<img width="378" height="836" alt="image" src="https://github.com/user-attachments/assets/60d8fa34-b7c7-48f7-9e62-100d5222b372" />
+
+
+
+## Pantalla Principal:
+<img width="377" height="834" alt="image" src="https://github.com/user-attachments/assets/73dd4c7f-95fe-45de-a5bf-f93d7ae87cfb" />
+
+
+
+## Servicios:
+<img width="386" height="835" alt="image" src="https://github.com/user-attachments/assets/f1da7c65-5a8c-40d3-ae89-645deea7fbb9" />
+
+
+
+## Publicacion:
+<img width="384" height="827" alt="image" src="https://github.com/user-attachments/assets/cb618306-d351-462f-9832-ec163911a160" />
+
+
+
+## Solicitudes:
+<img width="382" height="840" alt="image" src="https://github.com/user-attachments/assets/3e5ed2e4-4ec4-4288-8a10-598b0419d30b" />
+
+
+
+## Reportes:
+<img width="374" height="831" alt="image" src="https://github.com/user-attachments/assets/a1167e01-1d4a-493c-a4b0-e56c9b5abe95" />
+
+
 ## Instalación y ejecución
 1. Clona este repositorio
 2. Instala las dependencias:
