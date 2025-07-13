@@ -3,6 +3,12 @@
 
 > **Marketplace de Servicios - Proyecto Móvil Android**
 
+## Elaborado por:
+###	Flores Quispe Jaime Elias			(2021070309)
+###	Chata Choque, Brant Antony		   (2020067577)
+###	Leyva Sardón, Elvis Ronald			(2021072614)
+###	Chambi Cori, Jerson Roni	      (2021072619)
+
 ## Descripción
 ServiApp es una aplicación móvil tipo marketplace enfocada exclusivamente en la oferta y demanda de servicios. Permite a los usuarios buscar, contratar y calificar servicios de diferentes categorías, así como a los proveedores ofrecer sus servicios de manera sencilla y segura.
 
@@ -67,6 +73,12 @@ ServiApp es una aplicación móvil tipo marketplace enfocada exclusivamente en l
    ```bash
    flutter run
    ```
+
+## Credenciales de prueba:
+
+usuario:   jf@gmail.com   -  123456
+proveedor:   chite@gmail.com  - 123456
+administrador:   mark@gmail.com    - 123456
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para sugerencias o mejoras.
